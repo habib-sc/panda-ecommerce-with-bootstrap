@@ -37,3 +37,7 @@ body {
 .panda-bg-mwhite {
     background-color: #FEEAE9;
 }
+
+.panda-b-radius {
+    border-radius: 12px;
+}
